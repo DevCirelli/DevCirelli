@@ -1,6 +1,6 @@
 # DevCirelli - Desenvolvedor Web Front-end
 
-Bem-vindo ao meu perfil! 👋 Eu sou DevCirelli, um desenvolvedor web front-end apaixonado por criar experiências visuais cativantes.
+Bem-vindo ao meu perfil! <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">👋 Eu sou DevCirelli, um desenvolvedor web front-end apaixonado por criar experiências visuais cativantes.
 
 ## Sobre Mim
 
