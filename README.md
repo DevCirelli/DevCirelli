@@ -16,16 +16,3 @@ Bem-vindo ao meu perfil! <img src="https://raw.githubusercontent.com/MicaelliMed
 #### Ferramentas que uso:
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
 
-## Contato
-
-- 📧 Email: devcirelli@example.com
-- 🐦 Twitter: [@DevCirelli](https://twitter.com/DevCirelli)
-- 💼 LinkedIn: [Perfil LinkedIn](https://www.linkedin.com/in/devcirelli/)
-
-## Contribuições
-
-- 👨‍💻 Contribuições são bem-vindas em meus projetos. Fique à vontade para colaborar!
-
-## Agradecimentos
-
-Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus projetos e entrar em contato. Vamos criar algo incrível juntos! 🚀
