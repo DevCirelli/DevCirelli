@@ -8,16 +8,12 @@ Bem-vindo ao meu perfil! 👋 Eu sou DevCirelli, um desenvolvedor web front-end 
 - 🌐 Foco em criar interfaces intuitivas e amigáveis
 - 🎓 Formação: Cursos especializados em Desenvolvimento Web
 
-## Tecnologias e Habilidades
+#### Estou aprendendo sobre:
+[<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[<img height="48px" width="48px" alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-- **HTML**: Criação de estruturas sólidas para páginas web.
-- **CSS**: Estilização e design responsivo para uma experiência visual agradável.
-- **JavaScript**: Implementação de interatividade e dinamismo nas aplicações.
 
-## Projetos Destacados
-
-- [Projeto 1](link_projeto_1): Descrição breve do primeiro projeto.
-- [Projeto 2](link_projeto_2): Breve visão geral do segundo projeto.
 
 ## Contato
 
